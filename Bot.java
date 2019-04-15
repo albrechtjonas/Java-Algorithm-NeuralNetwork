@@ -32,16 +32,7 @@ public class Bot {
 			counts=0;
 			String card=userCardList.get(i);
 			
-			for(int x=0;x<userCardList.size();x++) {
-				if(userCardList.get(x).equals(card)) {
-					counts++;
-				}
-			}
 			
-			if(counts==4) {
-				boolean repeat=false;
-				for(int y=0;y<boomList.size();y++) {
-					
 					if(boomList.get(y).equals(card)) {
 						repeat=true;
 					}
