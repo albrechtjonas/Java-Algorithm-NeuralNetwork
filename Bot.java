@@ -6,13 +6,7 @@ public class Bot {
 	
 	public User user;
 	
-	public A
-		//useless constructor
-	}
-	
-	public void action(ArrayList<String> botCardList,ArrayList<String> userCardList) {
-		//System.out.println("Total Card Remained: "+calculateAllRemainedCard(botCardList,userCardList).size());
-		
+	publi
 		findBoom(userCardList);
 		
 		//findCombo(userCardList);
