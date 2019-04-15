@@ -35,17 +35,7 @@ public class Bot {
 			
 					if(boomList.get(y).equals(card)) {
 						repeat=true;
-					}
-				}
-				if(repeat==false) {
-					boomList.add(card);
-				}
-				boomExists=true;
-			}
-		}
-		
-		if(boomExists==false) {
-			System.out.println("No boom for the user");
+r");
 		}else {
 			System.out.print("The booms are: ");
 			for(int i=0;i<boomList.size();i++) {
