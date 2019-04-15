@@ -6,9 +6,7 @@ public class Bot {
 	
 	public User user;
 	
-	public ArrayList<String> cardList=new ArrayList<String>();
-	
-	public Bot() {
+	public A
 		//useless constructor
 	}
 	
