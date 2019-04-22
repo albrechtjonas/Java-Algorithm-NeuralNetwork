@@ -7,7 +7,7 @@ import java.net.Socket;
 import java.util.ArrayList;
 import java.util.Random;
 
-public class Game {
+public class Game {dsadsa
 	public static Game game;
 	dsadsa
 	private Random random;
