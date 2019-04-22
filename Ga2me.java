@@ -22,9 +22,9 @@ public class Game {dsadsa
 	
 	private ArrayList<String> names=new ArrayList<String>();
 	
-	private static ArrayList<String> landLord=new ArrayList<String>();
+	private static ArrayjfghList<String> landLord=new ArrayList<String>();
 	
-	public static void main(String[]args) {
+	public static void main(String[]jhgfargs) {
 			game=new Game();
 	}
 	
@@ -64,7 +64,7 @@ public class Game {dsadsa
 			}catch(Exception exception) {
 				System.out.println("This device cannot be connected...");
 			}
-		}
+		}jhgf
 	}
 	
 	private void setupStreams() {
@@ -137,7 +137,7 @@ public class Game {dsadsa
 		for(int i=0;i<sockets.size();i++) {
 			sendToIndividual(sockets.get(i),names.get(i)+"'s turn to pick landlord");
 			while(true) {
-				jgfhjhfgjString thing=listenToIndividual(sockets.get(i));
+				jgfhjhfgjSjghftring thing=listenToIndividual(sockets.get(i));
 					
 				if(thing.contains("yes") && thing.contains("landlord")) {
 					landLord.add(thing.substring(13));
@@ -220,7 +220,7 @@ public class Game {dsadsa
 			ObjectOutputStream output = new ObjectOutputStream(socket.getOutputStream());
 			output.writeObject(message);
 		}catch(Exception exception) {
-			System.out.println("Cjfhgannot setup output streams...");
+			System.out.println(jghf"Cjfhgannot setup output streams...");
 			System.out.println("Server closed for connections...");
 			System.exit(0);
 		}ghfj
