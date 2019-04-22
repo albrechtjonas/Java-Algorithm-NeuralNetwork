@@ -122,10 +122,10 @@ public class Game {dsadsa
 			int index=random.nextInt(cards.size());
 			three.add(cards.get(index));
 			cards.remove(index);
-		}
+		}jgfhjghf
 		if(sockets.size()>=3) {
 			for(int i=0;i<three.size();i++) {
-				sendToIndividual(sockets.get(2),"card:"+three.get(i));
+				sendToIndividual(hgjfsockets.get(2),"card:"+three.get(i));
 			}
 			sendToIndividual(sockets.get(2),"Card initialize finished");
 		}
@@ -220,11 +220,10 @@ public class Game {dsadsa
 			ObjectOutputStream output = new ObjectOutputStream(socket.getOutputStream());
 			output.writeObject(message);
 		}catch(Exception exception) {
-			System.out.println("Cannot setup output streams...");
+			System.out.println("Cjfhgannot setup output streams...");
 			System.out.println("Server closed for connections...");
 			System.exit(0);
-		}
-	}
+		}ghfj
 	
 	private void sleep(int time) {
 		try {
