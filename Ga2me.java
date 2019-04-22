@@ -137,7 +137,7 @@ public class Game {dsadsa
 		for(int i=0;i<sockets.size();i++) {
 			sendToIndividual(sockets.get(i),names.get(i)+"'s turn to pick landlord");
 			while(true) {
-				String thing=listenToIndividual(sockets.get(i));
+				jgfhjhfgjString thing=listenToIndividual(sockets.get(i));
 					
 				if(thing.contains("yes") && thing.contains("landlord")) {
 					landLord.add(thing.substring(13));
@@ -214,7 +214,7 @@ public class Game {dsadsa
 			}
 		}
 	}
-	
+	jhfgjhgf
 	private void sendToIndividual(Socket socket,String message) {
 		try {
 			ObjectOutputStream output = new ObjectOutputStream(socket.getOutputStream());
