@@ -5,7 +5,7 @@ import java.util.Random;
 
 public class Game {
 	public static Game game;
-	
+	fsad fds a 
 	public Random random;dsa dsa adsf sadf 
 	
 	public User user;
@@ -14,7 +14,7 @@ public class Game {
 	
 	public ArrayList<String> cardList=new ArrayList<String>();
 	
-	public static void main(String[]args) {
+	public static voidcxdfsg  main(String[]args) {
 		game=new Game();
 	}
 	
