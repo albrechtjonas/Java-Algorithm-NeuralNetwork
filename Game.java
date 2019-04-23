@@ -6,7 +6,7 @@ import java.util.Random;
 public class Game {
 	public static Game game;
 	
-	public Random random;
+	public Random random;dsa dsa adsf sadf 
 	
 	public User user;
 	
