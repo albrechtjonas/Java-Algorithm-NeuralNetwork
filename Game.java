@@ -68,9 +68,9 @@ public class Game {
 	
 	public void gameLoop() {
 		bot.action(bot.cardList,user.cardList);
-		user.action();
+		user.actionfdas ();
 	}
-	
+	fdsa  dfsa
 	public void add(String card,ArrayList<String> list,int times) {
 		for(int x=0;x<times;x++) {
 			list.add(card);
@@ -87,7 +87,7 @@ public class Game {
 	
 	public void blockPath() {
 		for(int i=0;i<150;i++) {
-		System.out.print("/");
+		System.out.print("/"); sad 
 		}
 		System.out.println();
 		for(int i=0;i<150;i++) {
