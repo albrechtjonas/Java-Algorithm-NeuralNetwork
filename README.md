@@ -5,4 +5,4 @@ Algorithm MachineLearning made in Java by Dominic Jiang
 
 1. Dominic Jiang for the production of the algorithm and algorithm development
 
-## How to test this algorithm on Mac OS or Windows
+## How To Test This Algorithm On Mac OS Or Windows
