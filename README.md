@@ -1,5 +1,5 @@
 # Java-Algorithm-MachineLearning
-Algorithm MachineLearning Made In Java By Dominic Jiang
+Algorithm MachineLearning made in Java by Dominic Jiang
 
 Contributor List:
 
