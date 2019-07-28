@@ -20,3 +20,5 @@ Algorithm MachineLearning made in Java by Dominic Jiang
 This is what I mean dude
 
 yes sir that is perfect
+
+today is after shower and it is perfect
