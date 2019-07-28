@@ -18,3 +18,5 @@ Algorithm MachineLearning made in Java by Dominic Jiang
 ## ScreenShot
 
 This is what I mean dude
+
+yes sir that is perfect
