@@ -16,3 +16,6 @@ Algorithm MachineLearning made in Java by Dominic Jiang
 ## Command Center
 
 ## ScreenShot
+
+# For More Algorithms And Coding Projects
+# Please Follow dominicjiang On Github
