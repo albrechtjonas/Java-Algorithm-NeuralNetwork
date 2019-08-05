@@ -19,3 +19,6 @@ Algorithm MachineLearning made in Java by Dominic Jiang
 
 # For More Algorithms And Coding Projects
 # Please Follow dominicjiang On Github
+
+
+improved array smaller running time
