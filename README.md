@@ -9,3 +9,5 @@ what is wrong about humanity and I think there is none
 hello yeah boy
 
 I love math class it is awesome
+
+and what is what
