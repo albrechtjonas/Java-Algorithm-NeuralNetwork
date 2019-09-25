@@ -30,3 +30,5 @@ I think this is good music
 
 DOnt you think
 I don't know man
+
+machine learning is a cool thing to do
