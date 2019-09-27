@@ -1,5 +1,3 @@
 # Java-Algorithm-MachineLearning
 
-this is important
-
-most important
+this is the best choice
