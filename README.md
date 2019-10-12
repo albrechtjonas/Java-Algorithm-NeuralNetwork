@@ -1,17 +1,17 @@
 # Java-Algorithm-MachineLearning
 1
 2
-3
+3tre
 4
 5
 6
-7
+7tyr
 8
 9
 10
 9
 8
-7
+7das
 6
 5a
 4
