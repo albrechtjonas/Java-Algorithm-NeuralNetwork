@@ -23,3 +23,5 @@
 and that is nice right?
 
 god dude that is bad
+
+I hate machine learning
