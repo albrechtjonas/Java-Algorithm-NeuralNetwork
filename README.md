@@ -1,1 +1,1 @@
-# Java-Algorithm-MachineLearning
+# Java-Algorithm-NeuralNetwork
