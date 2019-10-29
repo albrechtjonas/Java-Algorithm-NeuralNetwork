@@ -6,13 +6,11 @@
 
 ## How To Get This Algorithm On Your Device
 
-- Download Maze.jar file on your computer
+- Download Demo.jar file on your computer
 
 - Make sure JDK has been installed
 
-- Open terminal and type java -jar (directory of Maze.jar file)
-
-![Screen Shot 2019-10-25 at 22 27 51](https://user-images.githubusercontent.com/49256436/67614732-dc8de880-f776-11e9-9d9a-23584814cfcd.png)
+- Open terminal and type java -jar (directory of Demo.jar file)
 
 ## How To Use
 
