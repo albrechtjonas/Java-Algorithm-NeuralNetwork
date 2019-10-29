@@ -14,17 +14,23 @@
 
 ## How To Use
 
-- DataSet: [1,1,1,1]
+- DataSet: {1,0,0,1},{1,0,1,1},{1,1,0,1},{1,1,1,1},{0,1,1,0},{0,1,0,0},{0,0,1,0},{0,0,0,0}
 
-- Enter 3 numbers (the first three input) and you will see the output
+- The first three element as inputs and the last element in each array as output
+
+- As you can see no matter what the second and the third inputs are, the output will always be the same as the first input
+
+- Sigmoid function and derivative sigmoid (rate of change at a certain point) as the neural activated function
+
+- Using linear digression to fix the weights
+
+- After training, Enter 3 numbers (the first three input) and you will see the output
 
 ## Features
 
 - Use linear digression as a neuron function
 
 ## ScreenShot
-
-![Screen Shot 2019-10-25 at 22 33 35](https://user-images.githubusercontent.com/49256436/67614780-89686580-f777-11e9-96d4-1f7d11066f65.png)
 
 ![Screen Shot 2019-10-25 at 22 36 02](https://user-images.githubusercontent.com/49256436/67614805-d9dfc300-f777-11e9-9db6-c5c14b85f839.png)
 
