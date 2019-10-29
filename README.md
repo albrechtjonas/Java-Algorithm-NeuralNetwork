@@ -26,7 +26,7 @@
 
 - Sigmoid function and derivative sigmoid (rate of change at a certain point) as the neural activated function
 
-- Using linear digression to fix the weights
+- Using linear digression to fix the weights (three weights at this point for the first,second,third input)
 
 ## ScreenShot
 
