@@ -30,8 +30,6 @@
 
 ## ScreenShot
 
-![Screen Shot 2019-10-25 at 22 41 07](https://user-images.githubusercontent.com/49256436/67614847-989be300-f778-11e9-8fe4-faed870b3a8c.png)
-
 # For More Algorithms, Games And Coding Projects
 
 # Check Out My Github Account dominicjiang
