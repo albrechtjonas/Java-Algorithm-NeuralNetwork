@@ -14,31 +14,13 @@
 
 ## How To Use
 
-- Type solve in the textfield to find the shortest path from the red block to the blue block
+- DataSet: [1,1,1,1]
 
-- Type make in the textfield to generate a random maze guarantee one path only
-
-- Type reset in the textfield to reset the walls and paths
-
-- Type setResolution to set the resolution of the map
-
-- Type export to export the current map to the directory you chosed
-
-- Type import to import map from the directory you chosed
-
-- Press 1 to move the red block around
-
-- Press 2 to move the blue block around
-
-- press 3 to add walls on the map
-
-- press 4 to remove walls on the map
+- Enter 3 numbers (the first three input) and you will see the output
 
 ## Features
 
-- BFS breath first search path finding algorithm to find the shortest path
-
-- DFS depth first search path back trace algorithm to generate random maze
+- Use linear digression as a neuron function
 
 ## ScreenShot
 
