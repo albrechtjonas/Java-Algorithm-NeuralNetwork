@@ -20,15 +20,13 @@
 
 - As you can see no matter what the second and the third inputs are, the output will always be the same as the first input
 
-- Sigmoid function and derivative sigmoid (rate of change at a certain point) as the neural activated function
-
-- Using linear digression to fix the weights
-
 - After training, Enter 3 numbers (the first three input) and you will see the output
 
 ## Features
 
-- Use linear digression as a neuron function
+- Sigmoid function and derivative sigmoid (rate of change at a certain point) as the neural activated function
+
+- Using linear digression to fix the weights
 
 ## ScreenShot
 
