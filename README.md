@@ -32,8 +32,6 @@
 
 ## ScreenShot
 
-![Screen Shot 2019-10-25 at 22 36 02](https://user-images.githubusercontent.com/49256436/67614805-d9dfc300-f777-11e9-9db6-c5c14b85f839.png)
-
 ![Screen Shot 2019-10-25 at 22 41 07](https://user-images.githubusercontent.com/49256436/67614847-989be300-f778-11e9-8fe4-faed870b3a8c.png)
 
 ![Screen Shot 2019-10-26 at 20 32 54](https://user-images.githubusercontent.com/49256436/67629173-d3ad1d80-f82f-11e9-943a-40b2990b88d1.png)
